@@ -1,19 +1,32 @@
-- 👋 Hi, I’m Denis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://komarev.com/ghpvc/?username=denisshiki&color=yellow&style=flat-square" alt="denisshiki" />
 
-## Olá, tudo bom?
+<h2> Print("Hello world, I'm Dênis")</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=DenisShiki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </h2>
 
-# denis 
+I'm a passionate self-taught data scientist from Brazil. 
 
- <div>
-  <a href="https://github.com/denisshiki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisShiki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisShiki&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
+Right now I'm studing Data Science and making projects to add in my portfolio.
+
+<h3> My purpose is to use data to help people and companies to make better decisions.</h3>
+
+<a href = "mailto:denis.shiki9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/denis-shiki-1239901b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+```python
+def my_profile(pronouns, name_surname, description, education):
+
+    pronouns = "He | Him"
+    
+    name_surname = ["Denis", "Shiki"]
+    
+    description = ["Optimistic", "Data_enthusiast", "Tech_enthusiast", "life_learning"]
+    
+    education = {college : "University of São Paulo (USP)", year_start : 2011, year_end : 2018}  
+```
+
+- 📈 I’m currently learning Statistics and Machine Learning algorithms for my future Data Science projects.
+- 💬  ask me about anything, I'll be really happy to help 😄
+
+### :👨‍💻 Languages that I speak:
 <div style="display: inline_block"><br>
   <img align="center" alt="Denis-Ub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Denis-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
@@ -29,10 +42,8 @@
  
 <div> 
 
-  <a href = "mailto:denis.shiki9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/denis-shiki-1239901b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/denisshiki/denisshiki/blob/main/.github/workflows/cobra.yml)
+  ![Snake animation](https://github.com/denisshiki/denisshiki/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
