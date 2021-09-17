@@ -42,10 +42,17 @@ def my_profile(pronouns, name_surname, description, education):
  
 <div> 
 
- 
   ![Snake animation](https://github.com/denisshiki/denisshiki/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+___
+
+## 📚💻 STUDY PROJECTS
+
+[Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
+
+Project: In this project I did a model that predict the probability of an employee leave the company using logistic regression.
 
 <!---
 denisshiki/denisshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
