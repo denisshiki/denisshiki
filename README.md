@@ -50,9 +50,13 @@ ___
 
 ## 📚💻 STUDY PROJECTS
 
-[Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
+🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
 
-Project: In this project I did a model that predict the probability of an employee leave the company using logistic regression.
+**Project:** In this project I did a model that predict the probability of an employee leave the company using logistic regression.
+
+🏪 [Customer Behavior Analysis Cluster Techniques](https://github.com/denisshiki/Customer-Analysis) <br>
+
+**Project:** In this project I made a model that separate the clients in different groups in order to give the marketing team a better understanding of our data. 
 
 <!---
 denisshiki/denisshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
