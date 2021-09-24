@@ -56,7 +56,9 @@ ___
 
 🏪 [Customer Behavior Analysis Cluster Techniques](https://github.com/denisshiki/Customer-Analysis) <br>
 
-**Project:** In this project I made a model that separate the clients in different groups in order to give the marketing team a better understanding of our data. 
+**Project:** In this project I made a model that separate the clients in different groups in order to give the marketing team a better understanding of our data.<br> 
+One ***product*** that we'll send is a ***link*** containing the ***group data*** that you can see in the ***link below:***<br>
+https://customer-behavior-cluster.herokuapp.com/
 
 <!---
 denisshiki/denisshiki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
