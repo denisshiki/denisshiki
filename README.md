@@ -46,13 +46,14 @@ def my_profile(pronouns, name_surname, description, education):
  
 </div>
 
-___
 
 ## 📚💻 STUDY PROJECTS
 
 🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
 
 **Project:** In this project I did a model that predict the probability of an employee leave the company using logistic regression.
+
+___
 
 🏪 [Customer Behavior Analysis Cluster Techniques](https://github.com/denisshiki/Customer-Analysis) <br>
 
