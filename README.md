@@ -51,13 +51,13 @@ def my_profile(pronouns, name_surname, description, education):
 
 🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
 
-**Project:** In this project I did a model that predict the probability of an employee leave the company using logistic regression.
+**Project:** <br> In this project I did a model that predict the probability of an employee leave the company using logistic regression.
 
 ___
 
 🏪 [Customer Behavior Analysis Cluster Techniques](https://github.com/denisshiki/Customer-Analysis) <br>
 
-**Project:** In this project I made a model that separate the clients in different groups using K-Means algotithm in order to give the marketing team a better understanding of our data.<br> 
+**Project:** <br> In this project I made a model that separate the clients in different groups using K-Means algotithm in order to give the marketing team a better understanding of our data.<br> 
 One ***product*** that we'll send is a ***link*** containing the ***group data*** that you can see in the ***link below:***<br>
 https://customer-behavior-cluster.herokuapp.com/
 
