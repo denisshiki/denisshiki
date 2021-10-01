@@ -45,6 +45,10 @@ def my_profile(pronouns, name_surname, description, education):
   ![Snake animation](https://github.com/denisshiki/denisshiki/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+___
+
+## 📚👨‍💻 PORTFOLIO PROJECTS
+
 
 
 ## 📚💻 STUDY PROJECTS
