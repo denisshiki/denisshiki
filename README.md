@@ -53,8 +53,8 @@ ___
 🧍 [Exploratory Data Analysis (EDA) (Portuguese)](https://github.com/denisshiki/imoveis-insights) <br>
 
 **Project:** <br> Nesse projeto eu realizei um estudo de análise exploratória de dados, respondendo a duas questões de negócios, sendo essas: <br>
-<strong>Quais os imóveis que deveríamos comprar e por qual preço? </strong><br>
-<strong>Uma vez comprados, quais imóveis deveríamos vender e por qual preço? </strong><br>
+<strong> - Quais os imóveis que deveríamos comprar e por qual preço? </strong><br>
+<strong> - Uma vez comprados, quais imóveis deveríamos vender e por qual preço? </strong><br>
 Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas condições impostas por nós fossem atendidas.
 ___
 ## 📚💻 STUDY PROJECTS
