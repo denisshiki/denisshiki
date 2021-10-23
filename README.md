@@ -48,18 +48,24 @@ def my_profile(pronouns, name_surname, description, education):
 
 ___
 
-## 📚👨‍💻 PORTFOLIO PROJECTS
+## PORTFOLIO PROJECTS
 
-🧍 [Exploratory Data Analysis (EDA) (Portuguese)](https://github.com/denisshiki/imoveis-insights) <br>
+[Exploratory Data Analysis (EDA) (Portuguese)](https://github.com/denisshiki/imoveis-insights) <br>
 
 **Project:** <br> Nesse projeto eu realizei um estudo de análise exploratória de dados, respondendo a duas questões de negócios, sendo essas: <br>
 <strong> - Quais os imóveis que deveríamos comprar e por qual preço? </strong><br>
 <strong> - Uma vez comprados, quais imóveis deveríamos vender e por qual preço? </strong><br>
 Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas condições impostas por nós fossem atendidas.
-___
-## 📚💻 STUDY PROJECTS
 
-🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
+[Sales Prediction (Portuguese)](https://github.com/denisshiki/Store) <br>
+
+**Project:** <br> Nesse projeto eu realizei uma previsão de vendas, respondendo a uma questão de negócios, sendo essa: <br>
+<strong> - Quais a previsão de vendas para as lojas nas próximas 6 semanas? </strong><br>
+Com isso geraríamos uma tabela contendo o lucro final previsto tanto no melhor como pior cenário.
+___
+## STUDY PROJECTS
+
+[Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
 
 **Project:** <br> In this project I did a model that predict the probability of an employee leave the company using logistic regression.
 
