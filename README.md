@@ -48,7 +48,7 @@ def my_profile(pronouns, name_surname, description, education):
 
 ___
 
-## PORTFOLIO PROJECTS
+## 📁 PORTFOLIO PROJECTS
 
 🗺️ [Exploratory Data Analysis (EDA) (Portuguese)](https://github.com/denisshiki/imoveis-insights) <br>
 
@@ -63,7 +63,7 @@ Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas co
 <strong> - Quais a previsão de vendas para as lojas nas próximas 6 semanas? </strong><br>
 Com isso utilizaríamos algoritmos para realizar essa previsão para no fim gerarmos uma tabela contendo o lucro final previsto tanto no melhor como pior cenário.
 ___
-## STUDY PROJECTS
+## 📕 STUDY PROJECTS
 
 🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
 
