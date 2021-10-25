@@ -50,6 +50,14 @@ ___
 
 ## 📁 PORTFOLIO PROJECTS
 
+
+🏢  [Sales Prediction (Portuguese)](https://github.com/denisshiki/Store) <br>
+
+**Project:** <br> Nesse projeto eu realizei uma previsão de vendas, respondendo a uma questão de negócios, sendo essa: <br>
+<strong> - Quais a previsão de vendas para as lojas nas próximas 6 semanas? </strong><br>
+Com isso utilizaríamos algoritmos para realizar essa previsão para no fim gerarmos uma tabela contendo o lucro final previsto tanto no melhor como pior cenário.
+___
+
 🗺️ [Exploratory Data Analysis (EDA) (Portuguese)](https://github.com/denisshiki/imoveis-insights) <br>
 
 **Project:** <br> Nesse projeto eu realizei um estudo de análise exploratória de dados, respondendo a duas questões de negócios, sendo essas: <br>
@@ -57,12 +65,7 @@ ___
 <strong> - Uma vez comprados, quais imóveis deveríamos vender e por qual preço? </strong><br>
 Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas condições impostas por nós fossem atendidas.
 ___
-🏢  [Sales Prediction (Portuguese)](https://github.com/denisshiki/Store) <br>
 
-**Project:** <br> Nesse projeto eu realizei uma previsão de vendas, respondendo a uma questão de negócios, sendo essa: <br>
-<strong> - Quais a previsão de vendas para as lojas nas próximas 6 semanas? </strong><br>
-Com isso utilizaríamos algoritmos para realizar essa previsão para no fim gerarmos uma tabela contendo o lucro final previsto tanto no melhor como pior cenário.
-___
 ## 📕 STUDY PROJECTS
 
 🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
