@@ -26,7 +26,7 @@ def my_profile(pronouns, name_surname, description, education):
 - 📈 I’m currently learning Statistics and Machine Learning algorithms for my future Data Science projects.
 - 💬  ask me about anything, I'll be really happy to help 😄
 
-### :👨‍💻 Languages that I speak:
+### Languages that I speak:
 <div style="display: inline_block"><br>
   <img align="center" alt="Denis-Ub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Denis-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
@@ -79,15 +79,15 @@ ___
 Once We analyse the data we'll use the Gain and Lift curve to drawn the scenarios and choose the scenario that has more ROI percentage.
 
 ___
-## 📕 STUDY PROJECTS
+## STUDY PROJECTS
 
-🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
+[Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
 
 **Project:** <br> In this project I did a model that predict the probability of an employee leave the company using logistic regression.
 
 ___
 
-🏪 [Customer Behavior Analysis Cluster Techniques](https://github.com/denisshiki/Customer-Analysis) <br>
+[Customer Behavior Analysis Cluster Techniques](https://github.com/denisshiki/Customer-Analysis) <br>
 
 **Project:** <br> In this project I made a model that separate the clients in different groups using K-Means algotithm in order to give the marketing team a better understanding of our data.<br> 
 One ***product*** that we'll send is a ***link*** containing the ***group data*** that you can see in the ***link below:***<br>
