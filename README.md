@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=denisshiki&color=yellow&style=flat-square" alt="denisshiki" />
 
-<h2> Print("Hello world, I'm Dênis")</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=DenisShiki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </h2>
+<h2> Print("Hello world, I'm Dênis") </h2>
 
 I'm a passionate self-taught data scientist from Brazil. 
 
