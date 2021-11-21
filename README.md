@@ -71,7 +71,7 @@ ___
 Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas condições impostas por nós fossem atendidas.
 ___
 
-[Churn Prediction (English)](https://github.com/denisshiki/churn_prediction) <br>
+[Churn Prediction (English - In progress)](https://github.com/denisshiki/churn_prediction) <br>
 
 ![churn-rate](https://user-images.githubusercontent.com/46419374/142772622-524c1d88-9561-44e3-a536-f1aa9d82e7fb.png)
 
