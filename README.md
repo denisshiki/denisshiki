@@ -48,23 +48,36 @@ def my_profile(pronouns, name_surname, description, education):
 
 ___
 
-## 📁 PORTFOLIO PROJECTS
+## PORTFOLIO PROJECTS
 
 
-🏢  [Sales Prediction (Portuguese)](https://github.com/denisshiki/Store) <br>
+[Sales Prediction (Portuguese)](https://github.com/denisshiki/Store) <br>
+
+![sales1](https://user-images.githubusercontent.com/46419374/142772248-ab333a7b-71f8-43f0-a0ff-10a569378890.jpg)
+
 
 **Project:** <br> Nesse projeto eu realizei uma previsão de vendas, respondendo a uma questão de negócios, sendo essa: <br>
 <strong> - Quais a previsão de vendas para as lojas nas próximas 6 semanas? </strong><br>
 Com isso utilizaríamos algoritmos para realizar essa previsão para no fim gerarmos uma tabela contendo o lucro final previsto tanto no melhor como pior cenário.
 ___
 
-🗺️ [Exploratory Data Analysis (EDA) (Portuguese)](https://github.com/denisshiki/imoveis-insights) <br>
+[Exploratory Data Analysis (EDA) (Portuguese)](https://github.com/denisshiki/imoveis-insights) <br>
+
+![exploration](https://user-images.githubusercontent.com/46419374/142772295-14daadd9-73e1-4e61-b524-cc4fc784b2f6.jpeg)
 
 **Project:** <br> Nesse projeto eu realizei um estudo de análise exploratória de dados, respondendo a duas questões de negócios, sendo essas: <br>
 <strong> - Quais os imóveis que deveríamos comprar e por qual preço? </strong><br>
 <strong> - Uma vez comprados, quais imóveis deveríamos vender e por qual preço? </strong><br>
 Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas condições impostas por nós fossem atendidas.
 ___
+
+[Churn Prediction (English)](https://github.com/denisshiki/churn_prediction) <br>
+
+![churn-rate](https://user-images.githubusercontent.com/46419374/142772622-524c1d88-9561-44e3-a536-f1aa9d82e7fb.png)
+
+**Project:** <br> In sthis project we'll  predict how much clients will leave our company: <br>
+<strong> - Uma vez comprados, quais imóveis deveríamos vender e por qual preço? </strong><br>
+Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas condições impostas por nós fossem atendidas.
 
 ## 📕 STUDY PROJECTS
 
