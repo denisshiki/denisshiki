@@ -76,9 +76,9 @@ ___
 ![churn-rate](https://user-images.githubusercontent.com/46419374/142772622-524c1d88-9561-44e3-a536-f1aa9d82e7fb.png)
 
 **Project:** <br> In sthis project we'll  predict how much clients will leave our company: <br>
-<strong> - Uma vez comprados, quais imóveis deveríamos vender e por qual preço? </strong><br>
-Com isso geraríamos uma tabela contendo o custo e o lucro final caso algumas condições impostas por nós fossem atendidas.
+Once We analyse the data we'll use the Gain and Lift curve to drawn the scenarios and choose the scenario that has more ROI percentage.
 
+___
 ## 📕 STUDY PROJECTS
 
 🧍 [Human Resources Regression Techniques](https://github.com/denisshiki/Human-Resources) <br>
